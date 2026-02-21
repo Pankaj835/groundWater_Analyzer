@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Large datasets (if needed)
+*.csv
+*.xlsx
